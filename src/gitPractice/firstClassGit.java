@@ -6,7 +6,10 @@ public class firstClassGit {
 		System.out.println("this is test");
 		System.out.println("i am atal");
 		System.out.println("atiq is my friend");
+		
 
 	}
-
+	public void test () {
+		System.out.println("this is from local repo");
+	}
 }
